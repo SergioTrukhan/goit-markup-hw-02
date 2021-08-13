@@ -37,6 +37,7 @@ font-size: 26px;
 line-height: 1.19;
 letter-spacing: 0.03em;
 color: var(--secondary-text-color);
+text-decoration: none;
 }
 .web {
   color: var(--accent-color);
@@ -51,6 +52,7 @@ font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
   color: var (--secondary-text-color);
+  text-decoration: none;
 }
 .site-nav a:hover,
 .site-nav a:focus {
@@ -63,6 +65,7 @@ font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
   color: var(--secondary-text-color);
+  text-decoration: none;
 }
 .connection a:hover,
 .connection a:focus {
@@ -96,6 +99,7 @@ text-align: center;
 letter-spacing: 0.06em;
   background-color: var(--accent-color);
   color: var(--accent-second-color);
+  cursor: pointer;
 }
 
 .section-title {
@@ -164,6 +168,7 @@ font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 }
 .footer-connection a:hover,
 .footer-connection a:focus {
@@ -182,6 +187,7 @@ text-align: center;
 letter-spacing: 0.03em;
   background-color: var(--accent-color);
   color: var(--accent-second-color);
+  text-decoration: none;
 }
 
 .projects-title {
