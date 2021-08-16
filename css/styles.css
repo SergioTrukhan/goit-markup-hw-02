@@ -64,7 +64,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
-  color: var(--secondary-text-color);
+  color: var(--primary-text-color);
   text-decoration: none;
 }
 .connection a:hover,
@@ -90,9 +90,11 @@ text-transform: uppercase;
   color: var(--accent-second-color);
 }
 .button {
-  font-weight: bold;
+ font-family: Roboto;
+font-style: normal;
+font-weight: bold;
 font-size: 16px;
-line-height: 1.88;
+line-height: 1.87;
 display: flex;
 align-items: center;
 text-align: center;
@@ -176,6 +178,7 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 
 color: rgba(255, 255, 255, 0.6);
+text-decoration: none;
 }
 .footer-connection a:hover,
 .footer-connection a:focus {
@@ -186,7 +189,8 @@ color: rgba(255, 255, 255, 0.6);
 /* Portfolio */
 
 .btn{
-
+font-family: Roboto;
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62;
